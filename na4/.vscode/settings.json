@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.wordWrap": "off",
+    "editor.minimap.enabled": false,
+    "window.title": "${dirty}${activeEditorShort}${separator}Numerical Analysis Experiment Playground",
+    "debug.internalConsoleOptions": "neverOpen",
+}
